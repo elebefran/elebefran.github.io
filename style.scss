@@ -119,6 +119,9 @@ img {
   font-style: italic;
   font-size: 16px;
   color: $gray;
+  border-top: 1px solid $gray;
+  padding-top: 10px;
+  margin-top: 20px;
 }
 
 .entry {
