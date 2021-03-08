@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .container {
@@ -31,7 +32,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -207,7 +207,6 @@ img {
 
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -227,7 +226,6 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -283,11 +281,11 @@ nav {
     font-size: 15px;
     font-style: italic;
   }
-	
+  
   h1 {
-	  padding-left: 16px;
-	  padding-right: 16px;
-	}
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
 
 .wrapper-footer {
