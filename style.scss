@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 
   @include mobile {
     line-height: 1.4;
+  color: $darkerGray;
   }
 }
 
@@ -220,6 +221,7 @@ img {
 
   @include mobile {
     margin: 3px 0;
+  color: $darkGray;
   }
 }
 
@@ -244,7 +246,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+  color: $darkGray;
     }
   }
 }
