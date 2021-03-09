@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Patatas
-excerpt: ¿Te imaginas que noséqué de patatas? Pues eso es lo que pasó en este relato
+title: Gilipollas
+excerpt: Filosofía del gilipollas
 ---
 
--[...] y este tío es un gilipollas qu...<br/>
+-[...] y este tío es un gilipollas qu...</br/>
 -Todos somos gilipollas -interrumpe.<br/>
 -¿Cómo dices?<br/>
 -Que todos somos gilipollas para alguien, en mayor o menor medida.<br/>
