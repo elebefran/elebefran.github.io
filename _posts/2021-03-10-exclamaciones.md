@@ -10,4 +10,4 @@ Ella terminaba todas sus frases con exclamaciones.
 
 "Pues verás cuando empiece a usar tres".
 
-Y fue en ese preciso instante cuando se dio cuenta de que estaba enamorado.
+Y fue en ese preciso instante cuando se dio cuenta de que se estaba enamorando.
