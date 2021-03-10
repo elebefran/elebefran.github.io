@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La conspiración de los huevos (Parte 1)
-excerpt: De repente empecé a encontrarme cascarillas de huevo en la tortilla. Si algo no iba a permitir es que que mi control de calidad culinaria se viese burlado de semejante manera. Y decidí investigar, claro.
+excerpt: De repente empecé a encontrarme cascarillas de huevo en la tortilla. Si algo no iba a permitir es que mi control de calidad culinaria se viese burlado de semejante manera. Y decidí investigar, claro.
 ---
 
 Si la ceremonia japonesa del té presenciara mi ceremonia nocturna de la tortilla de atún, sentiría envidia. 
