@@ -6,7 +6,7 @@ excerpt: Salvar a la princesa bien merece desafiar los pobres y tristes ardides 
 
 El valiente caballero y su fiel escudero estaban ya cerca del castillo de la princesa a la que iban a rescatar cuando se encontraron con un cartel en la linde del bosque.
 
-<img src="/images/el-bosque-maldito.jpg" />
+<img src="/images/el_bosque_maldito.jpg" />
 (Ilustración realizada por <a href="https://www.instagram.com/the_sazart/" target=_blank>sazart</a>)
 
 Era un bosque tenebroso, denso, frío, vacío de vida.
