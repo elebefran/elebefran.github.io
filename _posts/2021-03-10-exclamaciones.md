@@ -4,7 +4,7 @@ title: Exclamaciones
 excerpt: Ella era una entusiasta que terminaba sus frases con exclamaciones...
 ---
 
-Ella terminaba todas sus frases con exclamaciones.
+Ella terminaba todas sus frases con exclamaciones, pero aquel día usó dos.
 
 Él le dijo: "¿Dos exclamaciones? Ten cuidado, no sea que venga la Policía del Entusiasmo y te cruja a palos".
 
